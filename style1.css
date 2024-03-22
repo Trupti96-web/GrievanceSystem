@@ -1,0 +1,57 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background-image: url(is.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sanf-serif;
+  }
+  
+  .Complaints-box
+  {
+  width: 505px;
+  height: 600px;
+  background: rgba(0, 0, 0,0.3);
+  color:black;
+  top: 18%;
+  left: 36%;
+  position: absolute;
+  transform: transform(-40%,-50%);
+  box-sizing: border-box;
+  padding: 56px 50px;
+  }
+  h1
+  {
+	margin: 0;
+    padding: 0 0 10px;  
+    text-align: center;
+	font-size: 35px;
+  }
+  
+  .Complaints-box p{
+    margin: 0;
+    padding: 0;  
+	font-weight: bold;
+  }
+  .Complaints-box input{
+	  width: 100%;
+	  margin-bottom: 20px;
+  }
+  .Complaints-box input[type="submit"]
+  {
+	  border: none;
+	  outline: none;
+      height: 40px;
+	  background: #1c8abc;
+	  color: #fff;
+	  font-size: 20px;
+	  border-radius: 20px;  
+  }
+   .Complaints-box input[type="submit"]:hover
+  {
+   cursor: pointer;
+   background: #39dc79;
+   color: #fff;
+  }
+  
