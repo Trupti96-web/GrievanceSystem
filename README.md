@@ -1,2 +1,2 @@
-# GrevanceSystem
+# GrievanceSystem
 html,css,javascript,php,mysql
